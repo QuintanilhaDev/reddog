@@ -19,4 +19,5 @@ Sistema de prevenção a fraudes para e-commerce desenvolvido em PHP.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/reddog-antifraude.git
+git clone https://github.com/QuintanilhaDev/reddog.git
+
